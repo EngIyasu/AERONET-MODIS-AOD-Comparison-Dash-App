@@ -29,7 +29,7 @@ available_satellite = df['Satellite'].unique()
 available_combination = df['Temporal Spatial Combination'].unique()
 
 paper_link = "https://doi.org/10.3390/rs13122316"
-guthub_link = "https://github.com/EngIyasu"
+guthub_link = "https://github.com/EngIyasu/AERONET-MODIS-AOD-Comparison-Dash-App"
 linkedin_link = "https://www.linkedin.com/in/iyasu-g-eibedingil-01093a92"
 datasource_link = "https://doi.org/10.17632/9v6pwjzxg6.1 "
 
