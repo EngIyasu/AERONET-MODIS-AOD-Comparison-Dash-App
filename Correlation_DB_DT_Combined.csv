@@ -1,0 +1,829 @@
+Algorithm,Station Name,Longitude,Latitude,Satellite,Temporal Spatial Combination,Correlation Coefficient
+Deep Blue,Ames,-93.775,42.021,Aqua,Nearest - Nearest,0.70124
+Deep Blue,Ames,-93.775,42.021,Aqua,Nearest - 9 Pixels,0.65476
+Deep Blue,Ames,-93.775,42.021,Aqua,Nearest - 25 Pixels,0.66046
+Deep Blue,Ames,-93.775,42.021,Aqua,15 min - Nearest,0.83281
+Deep Blue,Ames,-93.775,42.021,Aqua,15 min - 9 Pixels,0.7858
+Deep Blue,Ames,-93.775,42.021,Aqua,15 min - 25 Pixels,0.77924
+Deep Blue,Ames,-93.775,42.021,Aqua,90 min - Nearest,0.78701
+Deep Blue,Ames,-93.775,42.021,Aqua,90 min - 9 Pixels,0.74029
+Deep Blue,Ames,-93.775,42.021,Aqua,90 min - 25 Pixels,0.72722
+Deep Blue,Ames,-93.775,42.021,Terra,Nearest - Nearest,0.85861
+Deep Blue,Ames,-93.775,42.021,Terra,Nearest - 9 Pixels,0.71705
+Deep Blue,Ames,-93.775,42.021,Terra,Nearest - 25 Pixels,0.77693
+Deep Blue,Ames,-93.775,42.021,Terra,15 min - Nearest,0.84778
+Deep Blue,Ames,-93.775,42.021,Terra,15 min - 9 Pixels,0.71361
+Deep Blue,Ames,-93.775,42.021,Terra,15 min - 25 Pixels,0.76211
+Deep Blue,Ames,-93.775,42.021,Terra,90 min - Nearest,0.80654
+Deep Blue,Ames,-93.775,42.021,Terra,90 min - 9 Pixels,0.71813
+Deep Blue,Ames,-93.775,42.021,Terra,90 min - 25 Pixels,0.67681
+Deep Blue,Bozeman,-111.045,45.662,Aqua,Nearest - Nearest,0.91257
+Deep Blue,Bozeman,-111.045,45.662,Aqua,Nearest - 9 Pixels,0.87959
+Deep Blue,Bozeman,-111.045,45.662,Aqua,Nearest - 25 Pixels,0.88433
+Deep Blue,Bozeman,-111.045,45.662,Aqua,15 min - Nearest,0.91527
+Deep Blue,Bozeman,-111.045,45.662,Aqua,15 min - 9 Pixels,0.8865
+Deep Blue,Bozeman,-111.045,45.662,Aqua,15 min - 25 Pixels,0.88913
+Deep Blue,Bozeman,-111.045,45.662,Aqua,90 min - Nearest,0.86712
+Deep Blue,Bozeman,-111.045,45.662,Aqua,90 min - 9 Pixels,0.8321
+Deep Blue,Bozeman,-111.045,45.662,Aqua,90 min - 25 Pixels,0.84611
+Deep Blue,Bozeman,-111.045,45.662,Terra,Nearest - Nearest,0.83803
+Deep Blue,Bozeman,-111.045,45.662,Terra,Nearest - 9 Pixels,0.77077
+Deep Blue,Bozeman,-111.045,45.662,Terra,Nearest - 25 Pixels,0.72851
+Deep Blue,Bozeman,-111.045,45.662,Terra,15 min - Nearest,0.84286
+Deep Blue,Bozeman,-111.045,45.662,Terra,15 min - 9 Pixels,0.77533
+Deep Blue,Bozeman,-111.045,45.662,Terra,15 min - 25 Pixels,0.73429
+Deep Blue,Bozeman,-111.045,45.662,Terra,90 min - Nearest,0.85971
+Deep Blue,Bozeman,-111.045,45.662,Terra,90 min - 9 Pixels,0.79253
+Deep Blue,Bozeman,-111.045,45.662,Terra,90 min - 25 Pixels,0.78246
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Aqua,Nearest - Nearest,0.59083
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Aqua,Nearest - 9 Pixels,0.49306
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Aqua,Nearest - 25 Pixels,0.43629
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Aqua,15 min - Nearest,0.6139
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Aqua,15 min - 9 Pixels,0.47745
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Aqua,15 min - 25 Pixels,0.45527
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Aqua,90 min - Nearest,0.58907
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Aqua,90 min - 9 Pixels,0.45257
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Aqua,90 min - 25 Pixels,0.4139
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Terra,Nearest - Nearest,0.50468
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Terra,Nearest - 9 Pixels,0.38107
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Terra,Nearest - 25 Pixels,0.39952
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Terra,15 min - Nearest,0.49845
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Terra,15 min - 9 Pixels,0.461
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Terra,15 min - 25 Pixels,0.4472
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Terra,90 min - Nearest,0.48622
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Terra,90 min - 9 Pixels,0.43833
+Deep Blue,BSRN BAO Boulder,-105.006,40.045,Terra,90 min - 25 Pixels,0.43987
+Deep Blue,Cart Site,-97.486,36.607,Aqua,Nearest - Nearest,0.73786
+Deep Blue,Cart Site,-97.486,36.607,Aqua,Nearest - 9 Pixels,0.70543
+Deep Blue,Cart Site,-97.486,36.607,Aqua,Nearest - 25 Pixels,0.66916
+Deep Blue,Cart Site,-97.486,36.607,Aqua,15 min - Nearest,0.7484
+Deep Blue,Cart Site,-97.486,36.607,Aqua,15 min - 9 Pixels,0.71065
+Deep Blue,Cart Site,-97.486,36.607,Aqua,15 min - 25 Pixels,0.6772
+Deep Blue,Cart Site,-97.486,36.607,Aqua,90 min - Nearest,0.55573
+Deep Blue,Cart Site,-97.486,36.607,Aqua,90 min - 9 Pixels,0.664
+Deep Blue,Cart Site,-97.486,36.607,Aqua,90 min - 25 Pixels,0.69093
+Deep Blue,Cart Site,-97.486,36.607,Terra,Nearest - Nearest,0.68512
+Deep Blue,Cart Site,-97.486,36.607,Terra,Nearest - 9 Pixels,0.70045
+Deep Blue,Cart Site,-97.486,36.607,Terra,Nearest - 25 Pixels,0.68067
+Deep Blue,Cart Site,-97.486,36.607,Terra,15 min - Nearest,0.6905
+Deep Blue,Cart Site,-97.486,36.607,Terra,15 min - 9 Pixels,0.70314
+Deep Blue,Cart Site,-97.486,36.607,Terra,15 min - 25 Pixels,0.61116
+Deep Blue,Cart Site,-97.486,36.607,Terra,90 min - Nearest,0.66363
+Deep Blue,Cart Site,-97.486,36.607,Terra,90 min - 9 Pixels,0.70401
+Deep Blue,Cart Site,-97.486,36.607,Terra,90 min - 25 Pixels,0.63702
+Deep Blue,Frenchman Flat,-115.935,36.809,Aqua,Nearest - Nearest,0.37944
+Deep Blue,Frenchman Flat,-115.935,36.809,Aqua,Nearest - 9 Pixels,0.38386
+Deep Blue,Frenchman Flat,-115.935,36.809,Aqua,Nearest - 25 Pixels,0.40111
+Deep Blue,Frenchman Flat,-115.935,36.809,Aqua,15 min - Nearest,0.37357
+Deep Blue,Frenchman Flat,-115.935,36.809,Aqua,15 min - 9 Pixels,0.39195
+Deep Blue,Frenchman Flat,-115.935,36.809,Aqua,15 min - 25 Pixels,0.41326
+Deep Blue,Frenchman Flat,-115.935,36.809,Aqua,90 min - Nearest,0.38794
+Deep Blue,Frenchman Flat,-115.935,36.809,Aqua,90 min - 9 Pixels,0.39765
+Deep Blue,Frenchman Flat,-115.935,36.809,Aqua,90 min - 25 Pixels,0.43066
+Deep Blue,Frenchman Flat,-115.935,36.809,Terra,Nearest - Nearest,0.40416
+Deep Blue,Frenchman Flat,-115.935,36.809,Terra,Nearest - 9 Pixels,0.34737
+Deep Blue,Frenchman Flat,-115.935,36.809,Terra,Nearest - 25 Pixels,0.33568
+Deep Blue,Frenchman Flat,-115.935,36.809,Terra,15 min - Nearest,0.40098
+Deep Blue,Frenchman Flat,-115.935,36.809,Terra,15 min - 9 Pixels,0.35825
+Deep Blue,Frenchman Flat,-115.935,36.809,Terra,15 min - 25 Pixels,0.34933
+Deep Blue,Frenchman Flat,-115.935,36.809,Terra,90 min - Nearest,0.37238
+Deep Blue,Frenchman Flat,-115.935,36.809,Terra,90 min - 9 Pixels,0.36155
+Deep Blue,Frenchman Flat,-115.935,36.809,Terra,90 min - 25 Pixels,0.35936
+Deep Blue,Goldstone,-116.792,35.233,Aqua,Nearest - Nearest,0.53249
+Deep Blue,Goldstone,-116.792,35.233,Aqua,Nearest - 9 Pixels,0.54552
+Deep Blue,Goldstone,-116.792,35.233,Aqua,Nearest - 25 Pixels,0.54357
+Deep Blue,Goldstone,-116.792,35.233,Aqua,15 min - Nearest,0.52367
+Deep Blue,Goldstone,-116.792,35.233,Aqua,15 min - 9 Pixels,0.55245
+Deep Blue,Goldstone,-116.792,35.233,Aqua,15 min - 25 Pixels,0.55567
+Deep Blue,Goldstone,-116.792,35.233,Aqua,90 min - Nearest,0.52491
+Deep Blue,Goldstone,-116.792,35.233,Aqua,90 min - 9 Pixels,0.50956
+Deep Blue,Goldstone,-116.792,35.233,Aqua,90 min - 25 Pixels,0.50865
+Deep Blue,Goldstone,-116.792,35.233,Terra,Nearest - Nearest,0.46218
+Deep Blue,Goldstone,-116.792,35.233,Terra,Nearest - 9 Pixels,0.50075
+Deep Blue,Goldstone,-116.792,35.233,Terra,Nearest - 25 Pixels,0.52707
+Deep Blue,Goldstone,-116.792,35.233,Terra,15 min - Nearest,0.38933
+Deep Blue,Goldstone,-116.792,35.233,Terra,15 min - 9 Pixels,0.46508
+Deep Blue,Goldstone,-116.792,35.233,Terra,15 min - 25 Pixels,0.51182
+Deep Blue,Goldstone,-116.792,35.233,Terra,90 min - Nearest,0.36986
+Deep Blue,Goldstone,-116.792,35.233,Terra,90 min - 9 Pixels,0.4492
+Deep Blue,Goldstone,-116.792,35.233,Terra,90 min - 25 Pixels,0.52228
+Deep Blue,HJAndrews,-122.224,44.239,Aqua,Nearest - Nearest,0.9
+Deep Blue,HJAndrews,-122.224,44.239,Aqua,Nearest - 9 Pixels,0.84393
+Deep Blue,HJAndrews,-122.224,44.239,Aqua,Nearest - 25 Pixels,0.79513
+Deep Blue,HJAndrews,-122.224,44.239,Aqua,15 min - Nearest,0.86425
+Deep Blue,HJAndrews,-122.224,44.239,Aqua,15 min - 9 Pixels,0.8381
+Deep Blue,HJAndrews,-122.224,44.239,Aqua,15 min - 25 Pixels,0.79698
+Deep Blue,HJAndrews,-122.224,44.239,Aqua,90 min - Nearest,0.80201
+Deep Blue,HJAndrews,-122.224,44.239,Aqua,90 min - 9 Pixels,0.80431
+Deep Blue,HJAndrews,-122.224,44.239,Aqua,90 min - 25 Pixels,0.77773
+Deep Blue,HJAndrews,-122.224,44.239,Terra,Nearest - Nearest,0.77785
+Deep Blue,HJAndrews,-122.224,44.239,Terra,Nearest - 9 Pixels,0.60663
+Deep Blue,HJAndrews,-122.224,44.239,Terra,Nearest - 25 Pixels,0.66354
+Deep Blue,HJAndrews,-122.224,44.239,Terra,15 min - Nearest,0.79885
+Deep Blue,HJAndrews,-122.224,44.239,Terra,15 min - 9 Pixels,0.65395
+Deep Blue,HJAndrews,-122.224,44.239,Terra,15 min - 25 Pixels,0.69145
+Deep Blue,HJAndrews,-122.224,44.239,Terra,90 min - Nearest,0.73912
+Deep Blue,HJAndrews,-122.224,44.239,Terra,90 min - 9 Pixels,0.70192
+Deep Blue,HJAndrews,-122.224,44.239,Terra,90 min - 25 Pixels,0.72579
+Deep Blue,KONZA EDC,-96.61,39.102,Aqua,Nearest - Nearest,0.79582
+Deep Blue,KONZA EDC,-96.61,39.102,Aqua,Nearest - 9 Pixels,0.74542
+Deep Blue,KONZA EDC,-96.61,39.102,Aqua,Nearest - 25 Pixels,0.72815
+Deep Blue,KONZA EDC,-96.61,39.102,Aqua,15 min - Nearest,0.75861
+Deep Blue,KONZA EDC,-96.61,39.102,Aqua,15 min - 9 Pixels,0.7252
+Deep Blue,KONZA EDC,-96.61,39.102,Aqua,15 min - 25 Pixels,0.70161
+Deep Blue,KONZA EDC,-96.61,39.102,Aqua,90 min - Nearest,0.56178
+Deep Blue,KONZA EDC,-96.61,39.102,Aqua,90 min - 9 Pixels,0.63139
+Deep Blue,KONZA EDC,-96.61,39.102,Aqua,90 min - 25 Pixels,0.63735
+Deep Blue,KONZA EDC,-96.61,39.102,Terra,Nearest - Nearest,0.76678
+Deep Blue,KONZA EDC,-96.61,39.102,Terra,Nearest - 9 Pixels,0.64467
+Deep Blue,KONZA EDC,-96.61,39.102,Terra,Nearest - 25 Pixels,0.63544
+Deep Blue,KONZA EDC,-96.61,39.102,Terra,15 min - Nearest,0.76143
+Deep Blue,KONZA EDC,-96.61,39.102,Terra,15 min - 9 Pixels,0.64507
+Deep Blue,KONZA EDC,-96.61,39.102,Terra,15 min - 25 Pixels,0.58286
+Deep Blue,KONZA EDC,-96.61,39.102,Terra,90 min - Nearest,0.55298
+Deep Blue,KONZA EDC,-96.61,39.102,Terra,90 min - 9 Pixels,0.47103
+Deep Blue,KONZA EDC,-96.61,39.102,Terra,90 min - 25 Pixels,0.45799
+Deep Blue,La Jolla,-117.251,32.868,Aqua,Nearest - Nearest,0.49307
+Deep Blue,La Jolla,-117.251,32.868,Aqua,Nearest - 9 Pixels,0.60825
+Deep Blue,La Jolla,-117.251,32.868,Aqua,Nearest - 25 Pixels,0.58658
+Deep Blue,La Jolla,-117.251,32.868,Aqua,15 min - Nearest,0.61146
+Deep Blue,La Jolla,-117.251,32.868,Aqua,15 min - 9 Pixels,0.68876
+Deep Blue,La Jolla,-117.251,32.868,Aqua,15 min - 25 Pixels,0.66841
+Deep Blue,La Jolla,-117.251,32.868,Aqua,90 min - Nearest,0.544
+Deep Blue,La Jolla,-117.251,32.868,Aqua,90 min - 9 Pixels,0.58564
+Deep Blue,La Jolla,-117.251,32.868,Aqua,90 min - 25 Pixels,0.56763
+Deep Blue,La Jolla,-117.251,32.868,Terra,Nearest - Nearest,0.49474
+Deep Blue,La Jolla,-117.251,32.868,Terra,Nearest - 9 Pixels,0.61332
+Deep Blue,La Jolla,-117.251,32.868,Terra,Nearest - 25 Pixels,0.5986
+Deep Blue,La Jolla,-117.251,32.868,Terra,15 min - Nearest,0.50166
+Deep Blue,La Jolla,-117.251,32.868,Terra,15 min - 9 Pixels,0.62656
+Deep Blue,La Jolla,-117.251,32.868,Terra,15 min - 25 Pixels,0.61062
+Deep Blue,La Jolla,-117.251,32.868,Terra,90 min - Nearest,0.51514
+Deep Blue,La Jolla,-117.251,32.868,Terra,90 min - 9 Pixels,0.58576
+Deep Blue,La Jolla,-117.251,32.868,Terra,90 min - 25 Pixels,0.60592
+Deep Blue,Maricopa,-111.972,33.069,Aqua,Nearest - Nearest,0.40451
+Deep Blue,Maricopa,-111.972,33.069,Aqua,Nearest - 9 Pixels,0.48895
+Deep Blue,Maricopa,-111.972,33.069,Aqua,Nearest - 25 Pixels,0.52412
+Deep Blue,Maricopa,-111.972,33.069,Aqua,15 min - Nearest,0.40742
+Deep Blue,Maricopa,-111.972,33.069,Aqua,15 min - 9 Pixels,0.48782
+Deep Blue,Maricopa,-111.972,33.069,Aqua,15 min - 25 Pixels,0.51342
+Deep Blue,Maricopa,-111.972,33.069,Aqua,90 min - Nearest,0.39758
+Deep Blue,Maricopa,-111.972,33.069,Aqua,90 min - 9 Pixels,0.50227
+Deep Blue,Maricopa,-111.972,33.069,Aqua,90 min - 25 Pixels,0.53306
+Deep Blue,Maricopa,-111.972,33.069,Terra,Nearest - Nearest,0.35316
+Deep Blue,Maricopa,-111.972,33.069,Terra,Nearest - 9 Pixels,0.44905
+Deep Blue,Maricopa,-111.972,33.069,Terra,Nearest - 25 Pixels,0.44252
+Deep Blue,Maricopa,-111.972,33.069,Terra,15 min - Nearest,0.35947
+Deep Blue,Maricopa,-111.972,33.069,Terra,15 min - 9 Pixels,0.45224
+Deep Blue,Maricopa,-111.972,33.069,Terra,15 min - 25 Pixels,0.44755
+Deep Blue,Maricopa,-111.972,33.069,Terra,90 min - Nearest,0.41208
+Deep Blue,Maricopa,-111.972,33.069,Terra,90 min - 9 Pixels,0.50878
+Deep Blue,Maricopa,-111.972,33.069,Terra,90 min - 25 Pixels,0.50158
+Deep Blue,Missoula,-114.083,46.917,Aqua,Nearest - Nearest,0.94109
+Deep Blue,Missoula,-114.083,46.917,Aqua,Nearest - 9 Pixels,0.9387
+Deep Blue,Missoula,-114.083,46.917,Aqua,Nearest - 25 Pixels,0.93304
+Deep Blue,Missoula,-114.083,46.917,Aqua,15 min - Nearest,0.93318
+Deep Blue,Missoula,-114.083,46.917,Aqua,15 min - 9 Pixels,0.93961
+Deep Blue,Missoula,-114.083,46.917,Aqua,15 min - 25 Pixels,0.9308
+Deep Blue,Missoula,-114.083,46.917,Aqua,90 min - Nearest,0.93227
+Deep Blue,Missoula,-114.083,46.917,Aqua,90 min - 9 Pixels,0.92662
+Deep Blue,Missoula,-114.083,46.917,Aqua,90 min - 25 Pixels,0.90335
+Deep Blue,Missoula,-114.083,46.917,Terra,Nearest - Nearest,0.92915
+Deep Blue,Missoula,-114.083,46.917,Terra,Nearest - 9 Pixels,0.93978
+Deep Blue,Missoula,-114.083,46.917,Terra,Nearest - 25 Pixels,0.92517
+Deep Blue,Missoula,-114.083,46.917,Terra,15 min - Nearest,0.93539
+Deep Blue,Missoula,-114.083,46.917,Terra,15 min - 9 Pixels,0.9305
+Deep Blue,Missoula,-114.083,46.917,Terra,15 min - 25 Pixels,0.91608
+Deep Blue,Missoula,-114.083,46.917,Terra,90 min - Nearest,0.92142
+Deep Blue,Missoula,-114.083,46.917,Terra,90 min - 9 Pixels,0.90933
+Deep Blue,Missoula,-114.083,46.917,Terra,90 min - 25 Pixels,0.89211
+Deep Blue,Monterey,-121.855,36.593,Aqua,Nearest - Nearest,0.75908
+Deep Blue,Monterey,-121.855,36.593,Aqua,Nearest - 9 Pixels,0.78604
+Deep Blue,Monterey,-121.855,36.593,Aqua,Nearest - 25 Pixels,0.73803
+Deep Blue,Monterey,-121.855,36.593,Aqua,15 min - Nearest,0.77133
+Deep Blue,Monterey,-121.855,36.593,Aqua,15 min - 9 Pixels,0.76517
+Deep Blue,Monterey,-121.855,36.593,Aqua,15 min - 25 Pixels,0.71762
+Deep Blue,Monterey,-121.855,36.593,Aqua,90 min - Nearest,0.72848
+Deep Blue,Monterey,-121.855,36.593,Aqua,90 min - 9 Pixels,0.76035
+Deep Blue,Monterey,-121.855,36.593,Aqua,90 min - 25 Pixels,0.71384
+Deep Blue,Monterey,-121.855,36.593,Terra,Nearest - Nearest,0.81042
+Deep Blue,Monterey,-121.855,36.593,Terra,Nearest - 9 Pixels,0.73413
+Deep Blue,Monterey,-121.855,36.593,Terra,Nearest - 25 Pixels,0.74709
+Deep Blue,Monterey,-121.855,36.593,Terra,15 min - Nearest,0.8074
+Deep Blue,Monterey,-121.855,36.593,Terra,15 min - 9 Pixels,0.72559
+Deep Blue,Monterey,-121.855,36.593,Terra,15 min - 25 Pixels,0.74036
+Deep Blue,Monterey,-121.855,36.593,Terra,90 min - Nearest,0.7333
+Deep Blue,Monterey,-121.855,36.593,Terra,90 min - 9 Pixels,0.75261
+Deep Blue,Monterey,-121.855,36.593,Terra,90 min - 25 Pixels,0.71609
+Deep Blue,Railroad Valley,-115.691,38.497,Aqua,Nearest - Nearest,0.22143
+Deep Blue,Railroad Valley,-115.691,38.497,Aqua,Nearest - 9 Pixels,0.31033
+Deep Blue,Railroad Valley,-115.691,38.497,Aqua,Nearest - 25 Pixels,0.34267
+Deep Blue,Railroad Valley,-115.691,38.497,Aqua,15 min - Nearest,0.21189
+Deep Blue,Railroad Valley,-115.691,38.497,Aqua,15 min - 9 Pixels,0.31061
+Deep Blue,Railroad Valley,-115.691,38.497,Aqua,15 min - 25 Pixels,0.34062
+Deep Blue,Railroad Valley,-115.691,38.497,Aqua,90 min - Nearest,0.21946
+Deep Blue,Railroad Valley,-115.691,38.497,Aqua,90 min - 9 Pixels,0.32285
+Deep Blue,Railroad Valley,-115.691,38.497,Aqua,90 min - 25 Pixels,0.35423
+Deep Blue,Railroad Valley,-115.691,38.497,Terra,Nearest - Nearest,0.17951
+Deep Blue,Railroad Valley,-115.691,38.497,Terra,Nearest - 9 Pixels,0.21918
+Deep Blue,Railroad Valley,-115.691,38.497,Terra,Nearest - 25 Pixels,0.24689
+Deep Blue,Railroad Valley,-115.691,38.497,Terra,15 min - Nearest,0.18451
+Deep Blue,Railroad Valley,-115.691,38.497,Terra,15 min - 9 Pixels,0.231
+Deep Blue,Railroad Valley,-115.691,38.497,Terra,15 min - 25 Pixels,0.25452
+Deep Blue,Railroad Valley,-115.691,38.497,Terra,90 min - Nearest,0.17366
+Deep Blue,Railroad Valley,-115.691,38.497,Terra,90 min - 9 Pixels,0.20884
+Deep Blue,Railroad Valley,-115.691,38.497,Terra,90 min - 25 Pixels,0.23826
+Deep Blue,Red Mountain Pass,-107.711,37.907,Aqua,Nearest - Nearest,0.078259
+Deep Blue,Red Mountain Pass,-107.711,37.907,Aqua,Nearest - 9 Pixels,0.093238
+Deep Blue,Red Mountain Pass,-107.711,37.907,Aqua,Nearest - 25 Pixels,0.12873
+Deep Blue,Red Mountain Pass,-107.711,37.907,Aqua,15 min - Nearest,0.216
+Deep Blue,Red Mountain Pass,-107.711,37.907,Aqua,15 min - 9 Pixels,0.1185
+Deep Blue,Red Mountain Pass,-107.711,37.907,Aqua,15 min - 25 Pixels,0.14394
+Deep Blue,Red Mountain Pass,-107.711,37.907,Aqua,90 min - Nearest,0.22726
+Deep Blue,Red Mountain Pass,-107.711,37.907,Aqua,90 min - 9 Pixels,0.15009
+Deep Blue,Red Mountain Pass,-107.711,37.907,Aqua,90 min - 25 Pixels,0.1794
+Deep Blue,Red Mountain Pass,-107.711,37.907,Terra,Nearest - Nearest,0.0014706
+Deep Blue,Red Mountain Pass,-107.711,37.907,Terra,Nearest - 9 Pixels,0.05259
+Deep Blue,Red Mountain Pass,-107.711,37.907,Terra,Nearest - 25 Pixels,0.12448
+Deep Blue,Red Mountain Pass,-107.711,37.907,Terra,15 min - Nearest,0.036359
+Deep Blue,Red Mountain Pass,-107.711,37.907,Terra,15 min - 9 Pixels,0.065517
+Deep Blue,Red Mountain Pass,-107.711,37.907,Terra,15 min - 25 Pixels,0.11316
+Deep Blue,Red Mountain Pass,-107.711,37.907,Terra,90 min - Nearest,0.038124
+Deep Blue,Red Mountain Pass,-107.711,37.907,Terra,90 min - 9 Pixels,0.074162
+Deep Blue,Red Mountain Pass,-107.711,37.907,Terra,90 min - 25 Pixels,0.11499
+Deep Blue,Rimrock,-116.992,46.487,Aqua,Nearest - Nearest,0.88351
+Deep Blue,Rimrock,-116.992,46.487,Aqua,Nearest - 9 Pixels,0.89497
+Deep Blue,Rimrock,-116.992,46.487,Aqua,Nearest - 25 Pixels,0.88698
+Deep Blue,Rimrock,-116.992,46.487,Aqua,15 min - Nearest,0.85981
+Deep Blue,Rimrock,-116.992,46.487,Aqua,15 min - 9 Pixels,0.86945
+Deep Blue,Rimrock,-116.992,46.487,Aqua,15 min - 25 Pixels,0.866
+Deep Blue,Rimrock,-116.992,46.487,Aqua,90 min - Nearest,0.82821
+Deep Blue,Rimrock,-116.992,46.487,Aqua,90 min - 9 Pixels,0.84905
+Deep Blue,Rimrock,-116.992,46.487,Aqua,90 min - 25 Pixels,0.84484
+Deep Blue,Rimrock,-116.992,46.487,Terra,Nearest - Nearest,0.89519
+Deep Blue,Rimrock,-116.992,46.487,Terra,Nearest - 9 Pixels,0.90112
+Deep Blue,Rimrock,-116.992,46.487,Terra,Nearest - 25 Pixels,0.8819
+Deep Blue,Rimrock,-116.992,46.487,Terra,15 min - Nearest,0.88966
+Deep Blue,Rimrock,-116.992,46.487,Terra,15 min - 9 Pixels,0.8964
+Deep Blue,Rimrock,-116.992,46.487,Terra,15 min - 25 Pixels,0.87685
+Deep Blue,Rimrock,-116.992,46.487,Terra,90 min - Nearest,0.88034
+Deep Blue,Rimrock,-116.992,46.487,Terra,90 min - 9 Pixels,0.88839
+Deep Blue,Rimrock,-116.992,46.487,Terra,90 min - 25 Pixels,0.85911
+Deep Blue,Sevilleta,-106.885,34.355,Aqua,Nearest - Nearest,0.46394
+Deep Blue,Sevilleta,-106.885,34.355,Aqua,Nearest - 9 Pixels,0.45145
+Deep Blue,Sevilleta,-106.885,34.355,Aqua,Nearest - 25 Pixels,0.45512
+Deep Blue,Sevilleta,-106.885,34.355,Aqua,15 min - Nearest,0.45641
+Deep Blue,Sevilleta,-106.885,34.355,Aqua,15 min - 9 Pixels,0.44966
+Deep Blue,Sevilleta,-106.885,34.355,Aqua,15 min - 25 Pixels,0.4464
+Deep Blue,Sevilleta,-106.885,34.355,Aqua,90 min - Nearest,0.44312
+Deep Blue,Sevilleta,-106.885,34.355,Aqua,90 min - 9 Pixels,0.43861
+Deep Blue,Sevilleta,-106.885,34.355,Aqua,90 min - 25 Pixels,0.4416
+Deep Blue,Sevilleta,-106.885,34.355,Terra,Nearest - Nearest,0.2783
+Deep Blue,Sevilleta,-106.885,34.355,Terra,Nearest - 9 Pixels,0.36709
+Deep Blue,Sevilleta,-106.885,34.355,Terra,Nearest - 25 Pixels,0.34995
+Deep Blue,Sevilleta,-106.885,34.355,Terra,15 min - Nearest,0.28819
+Deep Blue,Sevilleta,-106.885,34.355,Terra,15 min - 9 Pixels,0.28959
+Deep Blue,Sevilleta,-106.885,34.355,Terra,15 min - 25 Pixels,0.3292
+Deep Blue,Sevilleta,-106.885,34.355,Terra,90 min - Nearest,0.27143
+Deep Blue,Sevilleta,-106.885,34.355,Terra,90 min - 9 Pixels,0.28292
+Deep Blue,Sevilleta,-106.885,34.355,Terra,90 min - 25 Pixels,0.23908
+Deep Blue,Sioux Falls,-96.626,43.736,Aqua,Nearest - Nearest,0.7421
+Deep Blue,Sioux Falls,-96.626,43.736,Aqua,Nearest - 9 Pixels,0.67657
+Deep Blue,Sioux Falls,-96.626,43.736,Aqua,Nearest - 25 Pixels,0.56225
+Deep Blue,Sioux Falls,-96.626,43.736,Aqua,15 min - Nearest,0.73918
+Deep Blue,Sioux Falls,-96.626,43.736,Aqua,15 min - 9 Pixels,0.68062
+Deep Blue,Sioux Falls,-96.626,43.736,Aqua,15 min - 25 Pixels,0.57571
+Deep Blue,Sioux Falls,-96.626,43.736,Aqua,90 min - Nearest,0.85731
+Deep Blue,Sioux Falls,-96.626,43.736,Aqua,90 min - 9 Pixels,0.80151
+Deep Blue,Sioux Falls,-96.626,43.736,Aqua,90 min - 25 Pixels,0.73217
+Deep Blue,Sioux Falls,-96.626,43.736,Terra,Nearest - Nearest,0.68233
+Deep Blue,Sioux Falls,-96.626,43.736,Terra,Nearest - 9 Pixels,0.71057
+Deep Blue,Sioux Falls,-96.626,43.736,Terra,Nearest - 25 Pixels,0.71061
+Deep Blue,Sioux Falls,-96.626,43.736,Terra,15 min - Nearest,0.71832
+Deep Blue,Sioux Falls,-96.626,43.736,Terra,15 min - 9 Pixels,0.73289
+Deep Blue,Sioux Falls,-96.626,43.736,Terra,15 min - 25 Pixels,0.72415
+Deep Blue,Sioux Falls,-96.626,43.736,Terra,90 min - Nearest,0.68216
+Deep Blue,Sioux Falls,-96.626,43.736,Terra,90 min - 9 Pixels,0.67437
+Deep Blue,Sioux Falls,-96.626,43.736,Terra,90 min - 25 Pixels,0.66272
+Deep Blue,Table Mountain,-105.237,40.125,Aqua,Nearest - Nearest,0.83156
+Deep Blue,Table Mountain,-105.237,40.125,Aqua,Nearest - 9 Pixels,0.85943
+Deep Blue,Table Mountain,-105.237,40.125,Aqua,Nearest - 25 Pixels,0.82448
+Deep Blue,Table Mountain,-105.237,40.125,Aqua,15 min - Nearest,0.83495
+Deep Blue,Table Mountain,-105.237,40.125,Aqua,15 min - 9 Pixels,0.85577
+Deep Blue,Table Mountain,-105.237,40.125,Aqua,15 min - 25 Pixels,0.82018
+Deep Blue,Table Mountain,-105.237,40.125,Aqua,90 min - Nearest,0.79289
+Deep Blue,Table Mountain,-105.237,40.125,Aqua,90 min - 9 Pixels,0.75292
+Deep Blue,Table Mountain,-105.237,40.125,Aqua,90 min - 25 Pixels,0.67954
+Deep Blue,Table Mountain,-105.237,40.125,Terra,Nearest - Nearest,0.72853
+Deep Blue,Table Mountain,-105.237,40.125,Terra,Nearest - 9 Pixels,0.54596
+Deep Blue,Table Mountain,-105.237,40.125,Terra,Nearest - 25 Pixels,0.45223
+Deep Blue,Table Mountain,-105.237,40.125,Terra,15 min - Nearest,0.75961
+Deep Blue,Table Mountain,-105.237,40.125,Terra,15 min - 9 Pixels,0.60275
+Deep Blue,Table Mountain,-105.237,40.125,Terra,15 min - 25 Pixels,0.50422
+Deep Blue,Table Mountain,-105.237,40.125,Terra,90 min - Nearest,0.705
+Deep Blue,Table Mountain,-105.237,40.125,Terra,90 min - 9 Pixels,0.59368
+Deep Blue,Table Mountain,-105.237,40.125,Terra,90 min - 25 Pixels,0.51247
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Aqua,Nearest - Nearest,0.30273
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Aqua,Nearest - 9 Pixels,0.52309
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Aqua,Nearest - 25 Pixels,0.5034
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Aqua,15 min - Nearest,0.31309
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Aqua,15 min - 9 Pixels,0.52255
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Aqua,15 min - 25 Pixels,0.49361
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Aqua,90 min - Nearest,0.49782
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Aqua,90 min - 9 Pixels,0.55345
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Aqua,90 min - 25 Pixels,0.5026
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Terra,Nearest - Nearest,0.23833
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Terra,Nearest - 9 Pixels,0.44124
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Terra,Nearest - 25 Pixels,0.90065
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Terra,15 min - Nearest,0.23738
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Terra,15 min - 9 Pixels,0.45142
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Terra,15 min - 25 Pixels,0.89166
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Terra,90 min - Nearest,0.23394
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Terra,90 min - 9 Pixels,0.4193
+Deep Blue,TABLE Mountain CA,-117.68,34.38,Terra,90 min - 25 Pixels,0.8415
+Deep Blue,Tucson,-110.953,32.233,Aqua,Nearest - Nearest,0.31034
+Deep Blue,Tucson,-110.953,32.233,Aqua,Nearest - 9 Pixels,0.37982
+Deep Blue,Tucson,-110.953,32.233,Aqua,Nearest - 25 Pixels,0.44046
+Deep Blue,Tucson,-110.953,32.233,Aqua,15 min - Nearest,0.3225
+Deep Blue,Tucson,-110.953,32.233,Aqua,15 min - 9 Pixels,0.42217
+Deep Blue,Tucson,-110.953,32.233,Aqua,15 min - 25 Pixels,0.47662
+Deep Blue,Tucson,-110.953,32.233,Aqua,90 min - Nearest,0.39586
+Deep Blue,Tucson,-110.953,32.233,Aqua,90 min - 9 Pixels,0.44948
+Deep Blue,Tucson,-110.953,32.233,Aqua,90 min - 25 Pixels,0.52087
+Deep Blue,Tucson,-110.953,32.233,Terra,Nearest - Nearest,0.17612
+Deep Blue,Tucson,-110.953,32.233,Terra,Nearest - 9 Pixels,0.20724
+Deep Blue,Tucson,-110.953,32.233,Terra,Nearest - 25 Pixels,0.28511
+Deep Blue,Tucson,-110.953,32.233,Terra,15 min - Nearest,0.20202
+Deep Blue,Tucson,-110.953,32.233,Terra,15 min - 9 Pixels,0.23192
+Deep Blue,Tucson,-110.953,32.233,Terra,15 min - 25 Pixels,0.30247
+Deep Blue,Tucson,-110.953,32.233,Terra,90 min - Nearest,0.1921
+Deep Blue,Tucson,-110.953,32.233,Terra,90 min - 9 Pixels,0.29254
+Deep Blue,Tucson,-110.953,32.233,Terra,90 min - 25 Pixels,0.33156
+Deep Blue,UCSB,-119.845,34.415,Aqua,Nearest - Nearest,0.48796
+Deep Blue,UCSB,-119.845,34.415,Aqua,Nearest - 9 Pixels,0.58369
+Deep Blue,UCSB,-119.845,34.415,Aqua,Nearest - 25 Pixels,0.60681
+Deep Blue,UCSB,-119.845,34.415,Aqua,15 min - Nearest,0.56087
+Deep Blue,UCSB,-119.845,34.415,Aqua,15 min - 9 Pixels,0.6825
+Deep Blue,UCSB,-119.845,34.415,Aqua,15 min - 25 Pixels,0.7019
+Deep Blue,UCSB,-119.845,34.415,Aqua,90 min - Nearest,0.47131
+Deep Blue,UCSB,-119.845,34.415,Aqua,90 min - 9 Pixels,0.52606
+Deep Blue,UCSB,-119.845,34.415,Aqua,90 min - 25 Pixels,0.51321
+Deep Blue,UCSB,-119.845,34.415,Terra,Nearest - Nearest,0.56112
+Deep Blue,UCSB,-119.845,34.415,Terra,Nearest - 9 Pixels,0.70703
+Deep Blue,UCSB,-119.845,34.415,Terra,Nearest - 25 Pixels,0.77006
+Deep Blue,UCSB,-119.845,34.415,Terra,15 min - Nearest,0.55473
+Deep Blue,UCSB,-119.845,34.415,Terra,15 min - 9 Pixels,0.70545
+Deep Blue,UCSB,-119.845,34.415,Terra,15 min - 25 Pixels,0.76365
+Deep Blue,UCSB,-119.845,34.415,Terra,90 min - Nearest,0.51167
+Deep Blue,UCSB,-119.845,34.415,Terra,90 min - 9 Pixels,0.64034
+Deep Blue,UCSB,-119.845,34.415,Terra,90 min - 25 Pixels,0.69182
+Deep Blue,Univ of Houston,-95.342,29.718,Aqua,Nearest - Nearest,0.61471
+Deep Blue,Univ of Houston,-95.342,29.718,Aqua,Nearest - 9 Pixels,0.65635
+Deep Blue,Univ of Houston,-95.342,29.718,Aqua,Nearest - 25 Pixels,0.69099
+Deep Blue,Univ of Houston,-95.342,29.718,Aqua,15 min - Nearest,0.62231
+Deep Blue,Univ of Houston,-95.342,29.718,Aqua,15 min - 9 Pixels,0.67888
+Deep Blue,Univ of Houston,-95.342,29.718,Aqua,15 min - 25 Pixels,0.70577
+Deep Blue,Univ of Houston,-95.342,29.718,Aqua,90 min - Nearest,0.59536
+Deep Blue,Univ of Houston,-95.342,29.718,Aqua,90 min - 9 Pixels,0.6429
+Deep Blue,Univ of Houston,-95.342,29.718,Aqua,90 min - 25 Pixels,0.53661
+Deep Blue,Univ of Houston,-95.342,29.718,Terra,Nearest - Nearest,0.42254
+Deep Blue,Univ of Houston,-95.342,29.718,Terra,Nearest - 9 Pixels,0.50213
+Deep Blue,Univ of Houston,-95.342,29.718,Terra,Nearest - 25 Pixels,0.54857
+Deep Blue,Univ of Houston,-95.342,29.718,Terra,15 min - Nearest,0.39955
+Deep Blue,Univ of Houston,-95.342,29.718,Terra,15 min - 9 Pixels,0.48742
+Deep Blue,Univ of Houston,-95.342,29.718,Terra,15 min - 25 Pixels,0.53224
+Deep Blue,Univ of Houston,-95.342,29.718,Terra,90 min - Nearest,0.407
+Deep Blue,Univ of Houston,-95.342,29.718,Terra,90 min - 9 Pixels,0.50383
+Deep Blue,Univ of Houston,-95.342,29.718,Terra,90 min - 25 Pixels,0.53696
+Deep Blue,White Sands HELSTF,-106.338,32.635,Aqua,Nearest - Nearest,0.4817
+Deep Blue,White Sands HELSTF,-106.338,32.635,Aqua,Nearest - 9 Pixels,0.52001
+Deep Blue,White Sands HELSTF,-106.338,32.635,Aqua,Nearest - 25 Pixels,0.52483
+Deep Blue,White Sands HELSTF,-106.338,32.635,Aqua,15 min - Nearest,0.49516
+Deep Blue,White Sands HELSTF,-106.338,32.635,Aqua,15 min - 9 Pixels,0.54392
+Deep Blue,White Sands HELSTF,-106.338,32.635,Aqua,15 min - 25 Pixels,0.53321
+Deep Blue,White Sands HELSTF,-106.338,32.635,Aqua,90 min - Nearest,0.39933
+Deep Blue,White Sands HELSTF,-106.338,32.635,Aqua,90 min - 9 Pixels,0.46792
+Deep Blue,White Sands HELSTF,-106.338,32.635,Aqua,90 min - 25 Pixels,0.47395
+Deep Blue,White Sands HELSTF,-106.338,32.635,Terra,Nearest - Nearest,0.40725
+Deep Blue,White Sands HELSTF,-106.338,32.635,Terra,Nearest - 9 Pixels,0.55051
+Deep Blue,White Sands HELSTF,-106.338,32.635,Terra,Nearest - 25 Pixels,0.56508
+Deep Blue,White Sands HELSTF,-106.338,32.635,Terra,15 min - Nearest,0.33299
+Deep Blue,White Sands HELSTF,-106.338,32.635,Terra,15 min - 9 Pixels,0.43925
+Deep Blue,White Sands HELSTF,-106.338,32.635,Terra,15 min - 25 Pixels,0.45382
+Deep Blue,White Sands HELSTF,-106.338,32.635,Terra,90 min - Nearest,0.33462
+Deep Blue,White Sands HELSTF,-106.338,32.635,Terra,90 min - 9 Pixels,0.35453
+Deep Blue,White Sands HELSTF,-106.338,32.635,Terra,90 min - 25 Pixels,0.34145
+Dark Target,Ames,-93.775,42.021,Aqua,Nearest - Nearest,0.88448
+Dark Target,Ames,-93.775,42.021,Aqua,Nearest - 9 Pixels,0.84809
+Dark Target,Ames,-93.775,42.021,Aqua,Nearest - 25 Pixels,0.85208
+Dark Target,Ames,-93.775,42.021,Aqua,15 min - Nearest,0.88692
+Dark Target,Ames,-93.775,42.021,Aqua,15 min - 9 Pixels,0.85423
+Dark Target,Ames,-93.775,42.021,Aqua,15 min - 25 Pixels,0.85693
+Dark Target,Ames,-93.775,42.021,Aqua,90 min - Nearest,0.88147
+Dark Target,Ames,-93.775,42.021,Aqua,90 min - 9 Pixels,0.82511
+Dark Target,Ames,-93.775,42.021,Aqua,90 min - 25 Pixels,0.82154
+Dark Target,Ames,-93.775,42.021,Terra,Nearest - Nearest,0.9065
+Dark Target,Ames,-93.775,42.021,Terra,Nearest - 9 Pixels,0.91463
+Dark Target,Ames,-93.775,42.021,Terra,Nearest - 25 Pixels,0.90773
+Dark Target,Ames,-93.775,42.021,Terra,15 min - Nearest,0.90196
+Dark Target,Ames,-93.775,42.021,Terra,15 min - 9 Pixels,0.90943
+Dark Target,Ames,-93.775,42.021,Terra,15 min - 25 Pixels,0.89763
+Dark Target,Ames,-93.775,42.021,Terra,90 min - Nearest,0.8843
+Dark Target,Ames,-93.775,42.021,Terra,90 min - 9 Pixels,0.89885
+Dark Target,Ames,-93.775,42.021,Terra,90 min - 25 Pixels,0.88579
+Dark Target,Bozeman,-111.045,45.662,Aqua,Nearest - Nearest,0.95948
+Dark Target,Bozeman,-111.045,45.662,Aqua,Nearest - 9 Pixels,0.96282
+Dark Target,Bozeman,-111.045,45.662,Aqua,Nearest - 25 Pixels,0.94491
+Dark Target,Bozeman,-111.045,45.662,Aqua,15 min - Nearest,0.95309
+Dark Target,Bozeman,-111.045,45.662,Aqua,15 min - 9 Pixels,0.95682
+Dark Target,Bozeman,-111.045,45.662,Aqua,15 min - 25 Pixels,0.93853
+Dark Target,Bozeman,-111.045,45.662,Aqua,90 min - Nearest,0.95338
+Dark Target,Bozeman,-111.045,45.662,Aqua,90 min - 9 Pixels,0.93839
+Dark Target,Bozeman,-111.045,45.662,Aqua,90 min - 25 Pixels,0.91533
+Dark Target,Bozeman,-111.045,45.662,Terra,Nearest - Nearest,0.94329
+Dark Target,Bozeman,-111.045,45.662,Terra,Nearest - 9 Pixels,0.93397
+Dark Target,Bozeman,-111.045,45.662,Terra,Nearest - 25 Pixels,0.91789
+Dark Target,Bozeman,-111.045,45.662,Terra,15 min - Nearest,0.94578
+Dark Target,Bozeman,-111.045,45.662,Terra,15 min - 9 Pixels,0.93504
+Dark Target,Bozeman,-111.045,45.662,Terra,15 min - 25 Pixels,0.92199
+Dark Target,Bozeman,-111.045,45.662,Terra,90 min - Nearest,0.93407
+Dark Target,Bozeman,-111.045,45.662,Terra,90 min - 9 Pixels,0.91598
+Dark Target,Bozeman,-111.045,45.662,Terra,90 min - 25 Pixels,0.91143
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Aqua,Nearest - Nearest,0.79485
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Aqua,Nearest - 9 Pixels,0.77223
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Aqua,Nearest - 25 Pixels,0.78949
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Aqua,15 min - Nearest,0.82383
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Aqua,15 min - 9 Pixels,0.78718
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Aqua,15 min - 25 Pixels,0.79878
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Aqua,90 min - Nearest,0.72203
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Aqua,90 min - 9 Pixels,0.73343
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Aqua,90 min - 25 Pixels,0.73925
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Terra,Nearest - Nearest,0.85127
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Terra,Nearest - 9 Pixels,0.81743
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Terra,Nearest - 25 Pixels,0.83514
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Terra,15 min - Nearest,0.84693
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Terra,15 min - 9 Pixels,0.083509
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Terra,15 min - 25 Pixels,0.84776
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Terra,90 min - Nearest,0.80331
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Terra,90 min - 9 Pixels,0.81027
+Dark Target,BSRN BAO Boulder,-105.006,40.045,Terra,90 min - 25 Pixels,0.81798
+Dark Target,Cart Site,-97.486,36.607,Aqua,Nearest - Nearest,0.76186
+Dark Target,Cart Site,-97.486,36.607,Aqua,Nearest - 9 Pixels,0.75457
+Dark Target,Cart Site,-97.486,36.607,Aqua,Nearest - 25 Pixels,0.76238
+Dark Target,Cart Site,-97.486,36.607,Aqua,15 min - Nearest,0.75491
+Dark Target,Cart Site,-97.486,36.607,Aqua,15 min - 9 Pixels,0.762
+Dark Target,Cart Site,-97.486,36.607,Aqua,15 min - 25 Pixels,0.77258
+Dark Target,Cart Site,-97.486,36.607,Aqua,90 min - Nearest,0.75446
+Dark Target,Cart Site,-97.486,36.607,Aqua,90 min - 9 Pixels,0.78249
+Dark Target,Cart Site,-97.486,36.607,Aqua,90 min - 25 Pixels,0.79259
+Dark Target,Cart Site,-97.486,36.607,Terra,Nearest - Nearest,0.73455
+Dark Target,Cart Site,-97.486,36.607,Terra,Nearest - 9 Pixels,0.78387
+Dark Target,Cart Site,-97.486,36.607,Terra,Nearest - 25 Pixels,0.79883
+Dark Target,Cart Site,-97.486,36.607,Terra,15 min - Nearest,0.73772
+Dark Target,Cart Site,-97.486,36.607,Terra,15 min - 9 Pixels,0.786
+Dark Target,Cart Site,-97.486,36.607,Terra,15 min - 25 Pixels,0.79963
+Dark Target,Cart Site,-97.486,36.607,Terra,90 min - Nearest,0.73274
+Dark Target,Cart Site,-97.486,36.607,Terra,90 min - 9 Pixels,0.7745
+Dark Target,Cart Site,-97.486,36.607,Terra,90 min - 25 Pixels,0.8056
+Dark Target,Frenchman Flat,-115.935,36.809,Aqua,Nearest - Nearest,0.38202
+Dark Target,Frenchman Flat,-115.935,36.809,Aqua,Nearest - 9 Pixels,0.46914
+Dark Target,Frenchman Flat,-115.935,36.809,Aqua,Nearest - 25 Pixels,0.48195
+Dark Target,Frenchman Flat,-115.935,36.809,Aqua,15 min - Nearest,0.40081
+Dark Target,Frenchman Flat,-115.935,36.809,Aqua,15 min - 9 Pixels,0.47284
+Dark Target,Frenchman Flat,-115.935,36.809,Aqua,15 min - 25 Pixels,0.50242
+Dark Target,Frenchman Flat,-115.935,36.809,Aqua,90 min - Nearest,0.62442
+Dark Target,Frenchman Flat,-115.935,36.809,Aqua,90 min - 9 Pixels,0.53887
+Dark Target,Frenchman Flat,-115.935,36.809,Aqua,90 min - 25 Pixels,0.57275
+Dark Target,Frenchman Flat,-115.935,36.809,Terra,Nearest - Nearest,0.42746
+Dark Target,Frenchman Flat,-115.935,36.809,Terra,Nearest - 9 Pixels,0.51198
+Dark Target,Frenchman Flat,-115.935,36.809,Terra,Nearest - 25 Pixels,0.5122
+Dark Target,Frenchman Flat,-115.935,36.809,Terra,15 min - Nearest,0.39124
+Dark Target,Frenchman Flat,-115.935,36.809,Terra,15 min - 9 Pixels,0.49503
+Dark Target,Frenchman Flat,-115.935,36.809,Terra,15 min - 25 Pixels,0.47539
+Dark Target,Frenchman Flat,-115.935,36.809,Terra,90 min - Nearest,0.30959
+Dark Target,Frenchman Flat,-115.935,36.809,Terra,90 min - 9 Pixels,0.50967
+Dark Target,Frenchman Flat,-115.935,36.809,Terra,90 min - 25 Pixels,0.48285
+Dark Target,Goldstone,-116.792,35.233,Aqua,Nearest - Nearest,NA
+Dark Target,Goldstone,-116.792,35.233,Aqua,Nearest - 9 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Aqua,Nearest - 25 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Aqua,15 min - Nearest,NA
+Dark Target,Goldstone,-116.792,35.233,Aqua,15 min - 9 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Aqua,15 min - 25 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Aqua,90 min - Nearest,NA
+Dark Target,Goldstone,-116.792,35.233,Aqua,90 min - 9 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Aqua,90 min - 25 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Terra,Nearest - Nearest,NA
+Dark Target,Goldstone,-116.792,35.233,Terra,Nearest - 9 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Terra,Nearest - 25 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Terra,15 min - Nearest,NA
+Dark Target,Goldstone,-116.792,35.233,Terra,15 min - 9 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Terra,15 min - 25 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Terra,90 min - Nearest,NA
+Dark Target,Goldstone,-116.792,35.233,Terra,90 min - 9 Pixels,NA
+Dark Target,Goldstone,-116.792,35.233,Terra,90 min - 25 Pixels,NA
+Dark Target,HJAndrews,-122.224,44.239,Aqua,Nearest - Nearest,0.89622
+Dark Target,HJAndrews,-122.224,44.239,Aqua,Nearest - 9 Pixels,0.84053
+Dark Target,HJAndrews,-122.224,44.239,Aqua,Nearest - 25 Pixels,0.80811
+Dark Target,HJAndrews,-122.224,44.239,Aqua,15 min - Nearest,0.89216
+Dark Target,HJAndrews,-122.224,44.239,Aqua,15 min - 9 Pixels,0.85217
+Dark Target,HJAndrews,-122.224,44.239,Aqua,15 min - 25 Pixels,0.82055
+Dark Target,HJAndrews,-122.224,44.239,Aqua,90 min - Nearest,0.8955
+Dark Target,HJAndrews,-122.224,44.239,Aqua,90 min - 9 Pixels,0.89118
+Dark Target,HJAndrews,-122.224,44.239,Aqua,90 min - 25 Pixels,0.85936
+Dark Target,HJAndrews,-122.224,44.239,Terra,Nearest - Nearest,0.81369
+Dark Target,HJAndrews,-122.224,44.239,Terra,Nearest - 9 Pixels,0.78388
+Dark Target,HJAndrews,-122.224,44.239,Terra,Nearest - 25 Pixels,0.77908
+Dark Target,HJAndrews,-122.224,44.239,Terra,15 min - Nearest,0.84873
+Dark Target,HJAndrews,-122.224,44.239,Terra,15 min - 9 Pixels,0.82648
+Dark Target,HJAndrews,-122.224,44.239,Terra,15 min - 25 Pixels,0.81578
+Dark Target,HJAndrews,-122.224,44.239,Terra,90 min - Nearest,0.8402
+Dark Target,HJAndrews,-122.224,44.239,Terra,90 min - 9 Pixels,0.81028
+Dark Target,HJAndrews,-122.224,44.239,Terra,90 min - 25 Pixels,0.79456
+Dark Target,KONZA EDC,-96.61,39.102,Aqua,Nearest - Nearest,0.87188
+Dark Target,KONZA EDC,-96.61,39.102,Aqua,Nearest - 9 Pixels,0.87974
+Dark Target,KONZA EDC,-96.61,39.102,Aqua,Nearest - 25 Pixels,0.86779
+Dark Target,KONZA EDC,-96.61,39.102,Aqua,15 min - Nearest,0.79851
+Dark Target,KONZA EDC,-96.61,39.102,Aqua,15 min - 9 Pixels,0.83199
+Dark Target,KONZA EDC,-96.61,39.102,Aqua,15 min - 25 Pixels,0.82919
+Dark Target,KONZA EDC,-96.61,39.102,Aqua,90 min - Nearest,0.80125
+Dark Target,KONZA EDC,-96.61,39.102,Aqua,90 min - 9 Pixels,0.65025
+Dark Target,KONZA EDC,-96.61,39.102,Aqua,90 min - 25 Pixels,0.68948
+Dark Target,KONZA EDC,-96.61,39.102,Terra,Nearest - Nearest,0.87533
+Dark Target,KONZA EDC,-96.61,39.102,Terra,Nearest - 9 Pixels,0.74842
+Dark Target,KONZA EDC,-96.61,39.102,Terra,Nearest - 25 Pixels,0.74979
+Dark Target,KONZA EDC,-96.61,39.102,Terra,15 min - Nearest,0.87522
+Dark Target,KONZA EDC,-96.61,39.102,Terra,15 min - 9 Pixels,0.76345
+Dark Target,KONZA EDC,-96.61,39.102,Terra,15 min - 25 Pixels,0.69547
+Dark Target,KONZA EDC,-96.61,39.102,Terra,90 min - Nearest,0.63707
+Dark Target,KONZA EDC,-96.61,39.102,Terra,90 min - 9 Pixels,0.69805
+Dark Target,KONZA EDC,-96.61,39.102,Terra,90 min - 25 Pixels,0.71407
+Dark Target,La Jolla,-117.251,32.868,Aqua,Nearest - Nearest,0.74882
+Dark Target,La Jolla,-117.251,32.868,Aqua,Nearest - 9 Pixels,0.70179
+Dark Target,La Jolla,-117.251,32.868,Aqua,Nearest - 25 Pixels,0.65356
+Dark Target,La Jolla,-117.251,32.868,Aqua,15 min - Nearest,0.75412
+Dark Target,La Jolla,-117.251,32.868,Aqua,15 min - 9 Pixels,0.6691
+Dark Target,La Jolla,-117.251,32.868,Aqua,15 min - 25 Pixels,0.63729
+Dark Target,La Jolla,-117.251,32.868,Aqua,90 min - Nearest,0.77309
+Dark Target,La Jolla,-117.251,32.868,Aqua,90 min - 9 Pixels,0.59543
+Dark Target,La Jolla,-117.251,32.868,Aqua,90 min - 25 Pixels,0.58825
+Dark Target,La Jolla,-117.251,32.868,Terra,Nearest - Nearest,0.43076
+Dark Target,La Jolla,-117.251,32.868,Terra,Nearest - 9 Pixels,0.71672
+Dark Target,La Jolla,-117.251,32.868,Terra,Nearest - 25 Pixels,0.63015
+Dark Target,La Jolla,-117.251,32.868,Terra,15 min - Nearest,0.56254
+Dark Target,La Jolla,-117.251,32.868,Terra,15 min - 9 Pixels,0.72032
+Dark Target,La Jolla,-117.251,32.868,Terra,15 min - 25 Pixels,0.63094
+Dark Target,La Jolla,-117.251,32.868,Terra,90 min - Nearest,0.54479
+Dark Target,La Jolla,-117.251,32.868,Terra,90 min - 9 Pixels,0.74031
+Dark Target,La Jolla,-117.251,32.868,Terra,90 min - 25 Pixels,0.64651
+Dark Target,Maricopa,-111.972,33.069,Aqua,Nearest - Nearest,0.13142
+Dark Target,Maricopa,-111.972,33.069,Aqua,Nearest - 9 Pixels,0.71207
+Dark Target,Maricopa,-111.972,33.069,Aqua,Nearest - 25 Pixels,0.61019
+Dark Target,Maricopa,-111.972,33.069,Aqua,15 min - Nearest,0.14207
+Dark Target,Maricopa,-111.972,33.069,Aqua,15 min - 9 Pixels,0.70031
+Dark Target,Maricopa,-111.972,33.069,Aqua,15 min - 25 Pixels,0.59386
+Dark Target,Maricopa,-111.972,33.069,Aqua,90 min - Nearest,0.029704
+Dark Target,Maricopa,-111.972,33.069,Aqua,90 min - 9 Pixels,0.66626
+Dark Target,Maricopa,-111.972,33.069,Aqua,90 min - 25 Pixels,0.58981
+Dark Target,Maricopa,-111.972,33.069,Terra,Nearest - Nearest,0.90157
+Dark Target,Maricopa,-111.972,33.069,Terra,Nearest - 9 Pixels,0.66862
+Dark Target,Maricopa,-111.972,33.069,Terra,Nearest - 25 Pixels,0.57255
+Dark Target,Maricopa,-111.972,33.069,Terra,15 min - Nearest,0.89833
+Dark Target,Maricopa,-111.972,33.069,Terra,15 min - 9 Pixels,0.67376
+Dark Target,Maricopa,-111.972,33.069,Terra,15 min - 25 Pixels,0.58107
+Dark Target,Maricopa,-111.972,33.069,Terra,90 min - Nearest,0.89852
+Dark Target,Maricopa,-111.972,33.069,Terra,90 min - 9 Pixels,0.67418
+Dark Target,Maricopa,-111.972,33.069,Terra,90 min - 25 Pixels,0.56854
+Dark Target,Missoula,-114.083,46.917,Aqua,Nearest - Nearest,0.96047
+Dark Target,Missoula,-114.083,46.917,Aqua,Nearest - 9 Pixels,0.94725
+Dark Target,Missoula,-114.083,46.917,Aqua,Nearest - 25 Pixels,0.9102
+Dark Target,Missoula,-114.083,46.917,Aqua,15 min - Nearest,0.95683
+Dark Target,Missoula,-114.083,46.917,Aqua,15 min - 9 Pixels,0.94184
+Dark Target,Missoula,-114.083,46.917,Aqua,15 min - 25 Pixels,0.8952
+Dark Target,Missoula,-114.083,46.917,Aqua,90 min - Nearest,0.94724
+Dark Target,Missoula,-114.083,46.917,Aqua,90 min - 9 Pixels,0.91935
+Dark Target,Missoula,-114.083,46.917,Aqua,90 min - 25 Pixels,0.87212
+Dark Target,Missoula,-114.083,46.917,Terra,Nearest - Nearest,0.95063
+Dark Target,Missoula,-114.083,46.917,Terra,Nearest - 9 Pixels,0.95214
+Dark Target,Missoula,-114.083,46.917,Terra,Nearest - 25 Pixels,0.9135
+Dark Target,Missoula,-114.083,46.917,Terra,15 min - Nearest,0.95207
+Dark Target,Missoula,-114.083,46.917,Terra,15 min - 9 Pixels,0.93381
+Dark Target,Missoula,-114.083,46.917,Terra,15 min - 25 Pixels,0.89553
+Dark Target,Missoula,-114.083,46.917,Terra,90 min - Nearest,0.94643
+Dark Target,Missoula,-114.083,46.917,Terra,90 min - 9 Pixels,0.94038
+Dark Target,Missoula,-114.083,46.917,Terra,90 min - 25 Pixels,0.91172
+Dark Target,Monterey,-121.855,36.593,Aqua,Nearest - Nearest,0.89711
+Dark Target,Monterey,-121.855,36.593,Aqua,Nearest - 9 Pixels,0.81856
+Dark Target,Monterey,-121.855,36.593,Aqua,Nearest - 25 Pixels,0.79129
+Dark Target,Monterey,-121.855,36.593,Aqua,15 min - Nearest,0.8951
+Dark Target,Monterey,-121.855,36.593,Aqua,15 min - 9 Pixels,0.80028
+Dark Target,Monterey,-121.855,36.593,Aqua,15 min - 25 Pixels,0.59017
+Dark Target,Monterey,-121.855,36.593,Aqua,90 min - Nearest,0.89964
+Dark Target,Monterey,-121.855,36.593,Aqua,90 min - 9 Pixels,0.7056
+Dark Target,Monterey,-121.855,36.593,Aqua,90 min - 25 Pixels,0.64308
+Dark Target,Monterey,-121.855,36.593,Terra,Nearest - Nearest,0.85726
+Dark Target,Monterey,-121.855,36.593,Terra,Nearest - 9 Pixels,0.81565
+Dark Target,Monterey,-121.855,36.593,Terra,Nearest - 25 Pixels,0.58119
+Dark Target,Monterey,-121.855,36.593,Terra,15 min - Nearest,0.85342
+Dark Target,Monterey,-121.855,36.593,Terra,15 min - 9 Pixels,0.817
+Dark Target,Monterey,-121.855,36.593,Terra,15 min - 25 Pixels,0.58173
+Dark Target,Monterey,-121.855,36.593,Terra,90 min - Nearest,0.82298
+Dark Target,Monterey,-121.855,36.593,Terra,90 min - 9 Pixels,0.67479
+Dark Target,Monterey,-121.855,36.593,Terra,90 min - 25 Pixels,0.59587
+Dark Target,Railroad Valley,-115.691,38.497,Aqua,Nearest - Nearest,NA
+Dark Target,Railroad Valley,-115.691,38.497,Aqua,Nearest - 9 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Aqua,Nearest - 25 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Aqua,15 min - Nearest,NA
+Dark Target,Railroad Valley,-115.691,38.497,Aqua,15 min - 9 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Aqua,15 min - 25 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Aqua,90 min - Nearest,NA
+Dark Target,Railroad Valley,-115.691,38.497,Aqua,90 min - 9 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Aqua,90 min - 25 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Terra,Nearest - Nearest,NA
+Dark Target,Railroad Valley,-115.691,38.497,Terra,Nearest - 9 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Terra,Nearest - 25 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Terra,15 min - Nearest,NA
+Dark Target,Railroad Valley,-115.691,38.497,Terra,15 min - 9 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Terra,15 min - 25 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Terra,90 min - Nearest,NA
+Dark Target,Railroad Valley,-115.691,38.497,Terra,90 min - 9 Pixels,NA
+Dark Target,Railroad Valley,-115.691,38.497,Terra,90 min - 25 Pixels,NA
+Dark Target,Red Mountain Pass,-107.711,37.907,Aqua,Nearest - Nearest,0.89647
+Dark Target,Red Mountain Pass,-107.711,37.907,Aqua,Nearest - 9 Pixels,0.61162
+Dark Target,Red Mountain Pass,-107.711,37.907,Aqua,Nearest - 25 Pixels,0.74928
+Dark Target,Red Mountain Pass,-107.711,37.907,Aqua,15 min - Nearest,0.88499
+Dark Target,Red Mountain Pass,-107.711,37.907,Aqua,15 min - 9 Pixels,0.6624
+Dark Target,Red Mountain Pass,-107.711,37.907,Aqua,15 min - 25 Pixels,0.76199
+Dark Target,Red Mountain Pass,-107.711,37.907,Aqua,90 min - Nearest,0.87202
+Dark Target,Red Mountain Pass,-107.711,37.907,Aqua,90 min - 9 Pixels,0.80856
+Dark Target,Red Mountain Pass,-107.711,37.907,Aqua,90 min - 25 Pixels,0.81344
+Dark Target,Red Mountain Pass,-107.711,37.907,Terra,Nearest - Nearest,0.80895
+Dark Target,Red Mountain Pass,-107.711,37.907,Terra,Nearest - 9 Pixels,0.66751
+Dark Target,Red Mountain Pass,-107.711,37.907,Terra,Nearest - 25 Pixels,0.71711
+Dark Target,Red Mountain Pass,-107.711,37.907,Terra,15 min - Nearest,0.81764
+Dark Target,Red Mountain Pass,-107.711,37.907,Terra,15 min - 9 Pixels,0.69354
+Dark Target,Red Mountain Pass,-107.711,37.907,Terra,15 min - 25 Pixels,0.70955
+Dark Target,Red Mountain Pass,-107.711,37.907,Terra,90 min - Nearest,0.86098
+Dark Target,Red Mountain Pass,-107.711,37.907,Terra,90 min - 9 Pixels,0.75703
+Dark Target,Red Mountain Pass,-107.711,37.907,Terra,90 min - 25 Pixels,0.75255
+Dark Target,Rimrock,-116.992,46.487,Aqua,Nearest - Nearest,0.82524
+Dark Target,Rimrock,-116.992,46.487,Aqua,Nearest - 9 Pixels,0.81176
+Dark Target,Rimrock,-116.992,46.487,Aqua,Nearest - 25 Pixels,0.80924
+Dark Target,Rimrock,-116.992,46.487,Aqua,15 min - Nearest,0.78256
+Dark Target,Rimrock,-116.992,46.487,Aqua,15 min - 9 Pixels,0.80048
+Dark Target,Rimrock,-116.992,46.487,Aqua,15 min - 25 Pixels,0.7922
+Dark Target,Rimrock,-116.992,46.487,Aqua,90 min - Nearest,0.7184
+Dark Target,Rimrock,-116.992,46.487,Aqua,90 min - 9 Pixels,0.81274
+Dark Target,Rimrock,-116.992,46.487,Aqua,90 min - 25 Pixels,0.81129
+Dark Target,Rimrock,-116.992,46.487,Terra,Nearest - Nearest,0.80977
+Dark Target,Rimrock,-116.992,46.487,Terra,Nearest - 9 Pixels,0.89132
+Dark Target,Rimrock,-116.992,46.487,Terra,Nearest - 25 Pixels,0.75925
+Dark Target,Rimrock,-116.992,46.487,Terra,15 min - Nearest,0.81097
+Dark Target,Rimrock,-116.992,46.487,Terra,15 min - 9 Pixels,0.89316
+Dark Target,Rimrock,-116.992,46.487,Terra,15 min - 25 Pixels,0.74949
+Dark Target,Rimrock,-116.992,46.487,Terra,90 min - Nearest,0.80622
+Dark Target,Rimrock,-116.992,46.487,Terra,90 min - 9 Pixels,0.88035
+Dark Target,Rimrock,-116.992,46.487,Terra,90 min - 25 Pixels,0.77424
+Dark Target,Sevilleta,-106.885,34.355,Aqua,Nearest - Nearest,0.59892
+Dark Target,Sevilleta,-106.885,34.355,Aqua,Nearest - 9 Pixels,0.64875
+Dark Target,Sevilleta,-106.885,34.355,Aqua,Nearest - 25 Pixels,0.532
+Dark Target,Sevilleta,-106.885,34.355,Aqua,15 min - Nearest,0.61297
+Dark Target,Sevilleta,-106.885,34.355,Aqua,15 min - 9 Pixels,0.64429
+Dark Target,Sevilleta,-106.885,34.355,Aqua,15 min - 25 Pixels,0.53654
+Dark Target,Sevilleta,-106.885,34.355,Aqua,90 min - Nearest,0.67831
+Dark Target,Sevilleta,-106.885,34.355,Aqua,90 min - 9 Pixels,0.62039
+Dark Target,Sevilleta,-106.885,34.355,Aqua,90 min - 25 Pixels,0.53454
+Dark Target,Sevilleta,-106.885,34.355,Terra,Nearest - Nearest,0.53562
+Dark Target,Sevilleta,-106.885,34.355,Terra,Nearest - 9 Pixels,0.40916
+Dark Target,Sevilleta,-106.885,34.355,Terra,Nearest - 25 Pixels,0.49465
+Dark Target,Sevilleta,-106.885,34.355,Terra,15 min - Nearest,0.53704
+Dark Target,Sevilleta,-106.885,34.355,Terra,15 min - 9 Pixels,0.42066
+Dark Target,Sevilleta,-106.885,34.355,Terra,15 min - 25 Pixels,0.49544
+Dark Target,Sevilleta,-106.885,34.355,Terra,90 min - Nearest,0.56644
+Dark Target,Sevilleta,-106.885,34.355,Terra,90 min - 9 Pixels,0.42454
+Dark Target,Sevilleta,-106.885,34.355,Terra,90 min - 25 Pixels,0.48941
+Dark Target,Sioux Falls,-96.626,43.736,Aqua,Nearest - Nearest,0.85489
+Dark Target,Sioux Falls,-96.626,43.736,Aqua,Nearest - 9 Pixels,0.86632
+Dark Target,Sioux Falls,-96.626,43.736,Aqua,Nearest - 25 Pixels,0.87071
+Dark Target,Sioux Falls,-96.626,43.736,Aqua,15 min - Nearest,0.86908
+Dark Target,Sioux Falls,-96.626,43.736,Aqua,15 min - 9 Pixels,0.86993
+Dark Target,Sioux Falls,-96.626,43.736,Aqua,15 min - 25 Pixels,0.87228
+Dark Target,Sioux Falls,-96.626,43.736,Aqua,90 min - Nearest,0.94978
+Dark Target,Sioux Falls,-96.626,43.736,Aqua,90 min - 9 Pixels,0.92719
+Dark Target,Sioux Falls,-96.626,43.736,Aqua,90 min - 25 Pixels,0.93006
+Dark Target,Sioux Falls,-96.626,43.736,Terra,Nearest - Nearest,0.9298
+Dark Target,Sioux Falls,-96.626,43.736,Terra,Nearest - 9 Pixels,0.92571
+Dark Target,Sioux Falls,-96.626,43.736,Terra,Nearest - 25 Pixels,0.90806
+Dark Target,Sioux Falls,-96.626,43.736,Terra,15 min - Nearest,0.93113
+Dark Target,Sioux Falls,-96.626,43.736,Terra,15 min - 9 Pixels,0.93008
+Dark Target,Sioux Falls,-96.626,43.736,Terra,15 min - 25 Pixels,0.91195
+Dark Target,Sioux Falls,-96.626,43.736,Terra,90 min - Nearest,0.92743
+Dark Target,Sioux Falls,-96.626,43.736,Terra,90 min - 9 Pixels,0.90774
+Dark Target,Sioux Falls,-96.626,43.736,Terra,90 min - 25 Pixels,0.88314
+Dark Target,Table Mountain,-105.237,40.125,Aqua,Nearest - Nearest,0.91945
+Dark Target,Table Mountain,-105.237,40.125,Aqua,Nearest - 9 Pixels,0.90741
+Dark Target,Table Mountain,-105.237,40.125,Aqua,Nearest - 25 Pixels,0.88054
+Dark Target,Table Mountain,-105.237,40.125,Aqua,15 min - Nearest,0.91892
+Dark Target,Table Mountain,-105.237,40.125,Aqua,15 min - 9 Pixels,0.90168
+Dark Target,Table Mountain,-105.237,40.125,Aqua,15 min - 25 Pixels,0.87532
+Dark Target,Table Mountain,-105.237,40.125,Aqua,90 min - Nearest,0.9292
+Dark Target,Table Mountain,-105.237,40.125,Aqua,90 min - 9 Pixels,0.88489
+Dark Target,Table Mountain,-105.237,40.125,Aqua,90 min - 25 Pixels,0.84844
+Dark Target,Table Mountain,-105.237,40.125,Terra,Nearest - Nearest,0.91495
+Dark Target,Table Mountain,-105.237,40.125,Terra,Nearest - 9 Pixels,0.89823
+Dark Target,Table Mountain,-105.237,40.125,Terra,Nearest - 25 Pixels,0.89577
+Dark Target,Table Mountain,-105.237,40.125,Terra,15 min - Nearest,0.912
+Dark Target,Table Mountain,-105.237,40.125,Terra,15 min - 9 Pixels,0.89417
+Dark Target,Table Mountain,-105.237,40.125,Terra,15 min - 25 Pixels,0.89218
+Dark Target,Table Mountain,-105.237,40.125,Terra,90 min - Nearest,0.90201
+Dark Target,Table Mountain,-105.237,40.125,Terra,90 min - 9 Pixels,0.85198
+Dark Target,Table Mountain,-105.237,40.125,Terra,90 min - 25 Pixels,0.86267
+Dark Target,TABLE Mountain CA,-117.68,34.38,Aqua,Nearest - Nearest,0.55701
+Dark Target,TABLE Mountain CA,-117.68,34.38,Aqua,Nearest - 9 Pixels,0.53559
+Dark Target,TABLE Mountain CA,-117.68,34.38,Aqua,Nearest - 25 Pixels,0.61644
+Dark Target,TABLE Mountain CA,-117.68,34.38,Aqua,15 min - Nearest,0.56065
+Dark Target,TABLE Mountain CA,-117.68,34.38,Aqua,15 min - 9 Pixels,0.54776
+Dark Target,TABLE Mountain CA,-117.68,34.38,Aqua,15 min - 25 Pixels,0.62175
+Dark Target,TABLE Mountain CA,-117.68,34.38,Aqua,90 min - Nearest,0.60024
+Dark Target,TABLE Mountain CA,-117.68,34.38,Aqua,90 min - 9 Pixels,0.51818
+Dark Target,TABLE Mountain CA,-117.68,34.38,Aqua,90 min - 25 Pixels,0.60695
+Dark Target,TABLE Mountain CA,-117.68,34.38,Terra,Nearest - Nearest,0.51224
+Dark Target,TABLE Mountain CA,-117.68,34.38,Terra,Nearest - 9 Pixels,0.49424
+Dark Target,TABLE Mountain CA,-117.68,34.38,Terra,Nearest - 25 Pixels,0.58807
+Dark Target,TABLE Mountain CA,-117.68,34.38,Terra,15 min - Nearest,0.52222
+Dark Target,TABLE Mountain CA,-117.68,34.38,Terra,15 min - 9 Pixels,0.49186
+Dark Target,TABLE Mountain CA,-117.68,34.38,Terra,15 min - 25 Pixels,0.59033
+Dark Target,TABLE Mountain CA,-117.68,34.38,Terra,90 min - Nearest,0.50635
+Dark Target,TABLE Mountain CA,-117.68,34.38,Terra,90 min - 9 Pixels,0.48123
+Dark Target,TABLE Mountain CA,-117.68,34.38,Terra,90 min - 25 Pixels,0.57259
+Dark Target,Tucson,-110.953,32.233,Aqua,Nearest - Nearest,0.57034
+Dark Target,Tucson,-110.953,32.233,Aqua,Nearest - 9 Pixels,0.34228
+Dark Target,Tucson,-110.953,32.233,Aqua,Nearest - 25 Pixels,0.47751
+Dark Target,Tucson,-110.953,32.233,Aqua,15 min - Nearest,0.49794
+Dark Target,Tucson,-110.953,32.233,Aqua,15 min - 9 Pixels,0.35562
+Dark Target,Tucson,-110.953,32.233,Aqua,15 min - 25 Pixels,0.49321
+Dark Target,Tucson,-110.953,32.233,Aqua,90 min - Nearest,0.47117
+Dark Target,Tucson,-110.953,32.233,Aqua,90 min - 9 Pixels,0.4269
+Dark Target,Tucson,-110.953,32.233,Aqua,90 min - 25 Pixels,0.57551
+Dark Target,Tucson,-110.953,32.233,Terra,Nearest - Nearest,0.11915
+Dark Target,Tucson,-110.953,32.233,Terra,Nearest - 9 Pixels,0.16139
+Dark Target,Tucson,-110.953,32.233,Terra,Nearest - 25 Pixels,0.24114
+Dark Target,Tucson,-110.953,32.233,Terra,15 min - Nearest,0.11832
+Dark Target,Tucson,-110.953,32.233,Terra,15 min - 9 Pixels,0.16304
+Dark Target,Tucson,-110.953,32.233,Terra,15 min - 25 Pixels,0.25455
+Dark Target,Tucson,-110.953,32.233,Terra,90 min - Nearest,0.17284
+Dark Target,Tucson,-110.953,32.233,Terra,90 min - 9 Pixels,0.28794
+Dark Target,Tucson,-110.953,32.233,Terra,90 min - 25 Pixels,0.38576
+Dark Target,UCSB,-119.845,34.415,Aqua,Nearest - Nearest,0.75664
+Dark Target,UCSB,-119.845,34.415,Aqua,Nearest - 9 Pixels,0.77595
+Dark Target,UCSB,-119.845,34.415,Aqua,Nearest - 25 Pixels,0.77259
+Dark Target,UCSB,-119.845,34.415,Aqua,15 min - Nearest,0.75243
+Dark Target,UCSB,-119.845,34.415,Aqua,15 min - 9 Pixels,0.76663
+Dark Target,UCSB,-119.845,34.415,Aqua,15 min - 25 Pixels,0.76345
+Dark Target,UCSB,-119.845,34.415,Aqua,90 min - Nearest,0.71741
+Dark Target,UCSB,-119.845,34.415,Aqua,90 min - 9 Pixels,0.51823
+Dark Target,UCSB,-119.845,34.415,Aqua,90 min - 25 Pixels,0.50872
+Dark Target,UCSB,-119.845,34.415,Terra,Nearest - Nearest,0.5896
+Dark Target,UCSB,-119.845,34.415,Terra,Nearest - 9 Pixels,0.72871
+Dark Target,UCSB,-119.845,34.415,Terra,Nearest - 25 Pixels,0.71656
+Dark Target,UCSB,-119.845,34.415,Terra,15 min - Nearest,0.61532
+Dark Target,UCSB,-119.845,34.415,Terra,15 min - 9 Pixels,0.72697
+Dark Target,UCSB,-119.845,34.415,Terra,15 min - 25 Pixels,0.71461
+Dark Target,UCSB,-119.845,34.415,Terra,90 min - Nearest,0.57819
+Dark Target,UCSB,-119.845,34.415,Terra,90 min - 9 Pixels,0.6978
+Dark Target,UCSB,-119.845,34.415,Terra,90 min - 25 Pixels,0.69277
+Dark Target,Univ of Houston,-95.342,29.718,Aqua,Nearest - Nearest,0.95212
+Dark Target,Univ of Houston,-95.342,29.718,Aqua,Nearest - 9 Pixels,0.88154
+Dark Target,Univ of Houston,-95.342,29.718,Aqua,Nearest - 25 Pixels,0.85677
+Dark Target,Univ of Houston,-95.342,29.718,Aqua,15 min - Nearest,0.9576
+Dark Target,Univ of Houston,-95.342,29.718,Aqua,15 min - 9 Pixels,0.89381
+Dark Target,Univ of Houston,-95.342,29.718,Aqua,15 min - 25 Pixels,0.86611
+Dark Target,Univ of Houston,-95.342,29.718,Aqua,90 min - Nearest,0.95985
+Dark Target,Univ of Houston,-95.342,29.718,Aqua,90 min - 9 Pixels,0.91902
+Dark Target,Univ of Houston,-95.342,29.718,Aqua,90 min - 25 Pixels,0.87913
+Dark Target,Univ of Houston,-95.342,29.718,Terra,Nearest - Nearest,0.95504
+Dark Target,Univ of Houston,-95.342,29.718,Terra,Nearest - 9 Pixels,0.90762
+Dark Target,Univ of Houston,-95.342,29.718,Terra,Nearest - 25 Pixels,0.88642
+Dark Target,Univ of Houston,-95.342,29.718,Terra,15 min - Nearest,0.96013
+Dark Target,Univ of Houston,-95.342,29.718,Terra,15 min - 9 Pixels,0.90867
+Dark Target,Univ of Houston,-95.342,29.718,Terra,15 min - 25 Pixels,0.88899
+Dark Target,Univ of Houston,-95.342,29.718,Terra,90 min - Nearest,0.94209
+Dark Target,Univ of Houston,-95.342,29.718,Terra,90 min - 9 Pixels,0.91369
+Dark Target,Univ of Houston,-95.342,29.718,Terra,90 min - 25 Pixels,0.88827
+Dark Target,White Sands HELSTF,-106.338,32.635,Aqua,Nearest - Nearest,0.74661
+Dark Target,White Sands HELSTF,-106.338,32.635,Aqua,Nearest - 9 Pixels,0.73807
+Dark Target,White Sands HELSTF,-106.338,32.635,Aqua,Nearest - 25 Pixels,0.74023
+Dark Target,White Sands HELSTF,-106.338,32.635,Aqua,15 min - Nearest,0.67843
+Dark Target,White Sands HELSTF,-106.338,32.635,Aqua,15 min - 9 Pixels,0.74067
+Dark Target,White Sands HELSTF,-106.338,32.635,Aqua,15 min - 25 Pixels,0.73816
+Dark Target,White Sands HELSTF,-106.338,32.635,Aqua,90 min - Nearest,0.74637
+Dark Target,White Sands HELSTF,-106.338,32.635,Aqua,90 min - 9 Pixels,0.73764
+Dark Target,White Sands HELSTF,-106.338,32.635,Aqua,90 min - 25 Pixels,0.73137
+Dark Target,White Sands HELSTF,-106.338,32.635,Terra,Nearest - Nearest,0.093444
+Dark Target,White Sands HELSTF,-106.338,32.635,Terra,Nearest - 9 Pixels,0.56132
+Dark Target,White Sands HELSTF,-106.338,32.635,Terra,Nearest - 25 Pixels,0.57755
+Dark Target,White Sands HELSTF,-106.338,32.635,Terra,15 min - Nearest,0.312
+Dark Target,White Sands HELSTF,-106.338,32.635,Terra,15 min - 9 Pixels,0.58593
+Dark Target,White Sands HELSTF,-106.338,32.635,Terra,15 min - 25 Pixels,0.36418
+Dark Target,White Sands HELSTF,-106.338,32.635,Terra,90 min - Nearest,0.32799
+Dark Target,White Sands HELSTF,-106.338,32.635,Terra,90 min - 9 Pixels,0.52951
+Dark Target,White Sands HELSTF,-106.338,32.635,Terra,90 min - 25 Pixels,0.38664
