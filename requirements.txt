@@ -4,8 +4,6 @@
 ansi2html==1.6.0
 appnope==0.1.2
 backcall==0.2.0
-backports==1.0
-backports.functools_lru_cache==1.6.4
 brotli-python==1.0.9
 brotlipy==0.7.0
 ca-certificates==2021.10.8
@@ -83,3 +81,5 @@ wheel==0.37.0
 xz==5.2.5
 zeromq==4.3.4
 zlib==1.2.11
+backports==1.0
+backports.functools_lru_cache==1.6.4
