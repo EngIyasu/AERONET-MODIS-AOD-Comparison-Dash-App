@@ -38,10 +38,6 @@ colors = {
     'text': '#7FDBFF',
     'dropdown_title': '#ffffff'
 }
-
-href = "https://doi.org/10.3390/rs13122316"
-
-#dcc.Link(html.A('Go to page 2 without refreshing!'), href="/page-2", style={'color': 'blue', 'text-decoration': 'none'}),
  
 app.layout = html.Div(style={'backgroundColor': colors['background']}, className='row', children=[
     dcc.Link(html.H3('Comparison of Aerosol Optical Depth from MODIS Product Collection 6.1 and AERONET in the Western United States'), \
